@@ -1,0 +1,31 @@
+.ourbox {
+    display: flex;
+    font-size: 1.3rem;
+    justify-content: left;
+    margin: 0px 250px;
+    padding: 20px 0px;
+    border-bottom: 2px solid #070707;
+}
+
+.our__mainbox {
+    background-color: rgb(225, 222, 222);
+    
+}
+
+.out__title {
+    font-size: 3rem;
+    margin-bottom: 50px;
+    font-family: "Syne", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+    color: #333333;
+}
+
+.check__icons {
+    color: #eeb746;
+    font-size: 1.7rem;
+    padding-right: 20px;
+}

@@ -1,0 +1,32 @@
+.money__main {
+    display: flex;
+    justify-content: center;
+}
+
+.money__title {
+    font-size: 3rem;
+    margin-bottom: 10px;
+    font-family: "Syne", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+}
+
+.star__icon {
+    font-size: 3rem;
+    color: #eeb746;
+    margin-top: 50px;
+    
+}
+
+.money__p {
+    font-size: 1.5rem;
+    margin: 70px;
+}
+
+.staricon {
+    display: flex;
+    justify-content: center;
+}

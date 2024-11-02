@@ -1,0 +1,37 @@
+.featured__title {
+    font-size: 3rem;
+    margin-bottom: 10px;
+    font-family: "Syne", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+    color: #eeb746;
+}
+
+.box {
+    border: 1px solid #333333;;
+    margin: 20px;
+}
+
+.main__box {
+    display: flex;
+    justify-content: center;
+    margin: 40px 170px;
+}
+
+.name__title {
+    font-size: 1.5rem;
+    padding: 20px 20px 20px 20px;
+    display: flex;
+    justify-content: center;
+    color: #333333;
+    background-color: #eeb746;
+}
+
+.name__text {
+    font-size: 1.3rem;
+    padding: 8px 15px;
+    color: #333333;
+}

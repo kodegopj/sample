@@ -1,7 +1,6 @@
 import React, { useRef } from 'react';
 import {  FaTimes } from "react-icons/fa";
 import { RiApps2Line } from "react-icons/ri";
-
 import "../Styles/Nav.css";
 
 function Navbar() {

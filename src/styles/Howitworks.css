@@ -1,0 +1,47 @@
+.how__mainbox {
+    margin: 20px 20px 80px 20px ;
+}
+
+.howitworks__title {
+    font-size: 3rem;
+    margin-bottom: 10px;
+    font-family: "Syne", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+}
+
+.second__box {
+    margin: 10px 20px;
+}
+
+.first__box {
+    display: flex;
+    justify-content: center;
+    padding: 80px;
+}
+
+.works__icon {
+    font-size: 4rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.works__title {
+    font-size: 1.5rem   ;
+}
+
+.contacts {
+    font-size: 2rem;
+    background-color: #eeb746;
+    padding: 10px 20px;
+    border-radius: 25px
+    
+}
+
+.contact__box {
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,64 @@
+.what__title {
+    font-size: 3rem;
+    margin-bottom: 50px;
+    font-family: "Syne", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+    color: #333333;
+}
+
+.ayimg1 {
+    background-image: url(../assets/img2.png);
+    height: 400px;
+    width: 500px;
+    background-size: cover;
+    background-position: center; 
+   
+    background-color: rgb(208, 208, 208);
+    
+}
+
+.ayimg2 {
+    background-image: url(../assets/img2.png);
+    height: 400px;
+    width: 500px;
+    background-size: cover;
+    background-position: center; 
+    
+    background-color: rgb(208, 208, 208);
+}
+
+.ayimg3 {
+    background-image: url(../assets/img2.png);
+    height: 400px;
+    width: 500px;
+    background-size: cover;
+    background-position: center; 
+   
+    background-color: rgb(208, 208, 208);
+}
+
+
+.what__are {
+    display: flex;
+    justify-content: center;
+    margin: 10px 170px;
+}
+
+.areyou {
+    font-size: 1.8rem;
+}
+
+.what__text {
+    font-size: 1.3rem;
+    width: 500px;
+    margin: 30px 30px 50px 0px;
+
+}
+
+.text2 {
+    margin: 50px 0px 50px 60px;
+}

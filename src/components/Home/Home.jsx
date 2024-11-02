@@ -7,7 +7,13 @@ import Reels from '../Reels/Reels.jsx';
 import Footer from '../Footer/Footer.jsx';
 import Contact from '../Contact/Contact.jsx';
 import Skills from "../Reels/Skills";
-
+import Introduction from "../Introduction/About.jsx";
+import Featured from '../Features.jsx/Featured.jsx';
+import Areyou from '../What/Areyou.jsx';
+import Ourvideo from '../Ourvideoeditingservices/Ourvideo.jsx';
+import Whatwedo from '../What we do/Whatwedo.jsx';
+import Howitworks from '../How it works/Howitworks.jsx';
+import Moneyback from '../Moneyback guarantee/Moneyback.jsx';
 
 function Home() {
   return (
@@ -19,10 +25,17 @@ function Home() {
           <div className='home__img'>
           <Landing/>
           </div>
-          <Showreel/>
+          <Introduction/>
+          <Featured/>
+          <Areyou/>
+          <Ourvideo/>
+          <Whatwedo/>
+          <Howitworks/>
+          <Moneyback/>
+          {/* <Showreel/>
           <Reels/>
-          <Skills/>
-          <Contact/>
+          <Skills/> */}
+          {/* <Contact/> */}
           <Footer/>
          
           

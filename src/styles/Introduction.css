@@ -1,0 +1,124 @@
+.Who__text {
+    font-size: 3rem;
+    margin-bottom: 30px;
+    font-family: "Syne", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+}
+
+.p__text {
+   
+    padding: 10px 270px 20px 270px;
+    display: flex;
+    align-items: center;
+    font-size: 1.3rem;
+}
+
+/*  ------------ about img -----------*/
+.p1 {
+    padding-top: 80px;
+    
+}
+
+.about__img {
+    display: flex;
+    justify-content: center;
+}
+
+.name__text {
+    display: flex;
+    justify-content: center;
+    transform: rotate(-deg); 
+}
+
+.hanz {
+    background-image: url(../assets/img2.png);
+    height: 200px;
+    width: 200px;
+    border-radius: 75%;
+    background-size: cover;
+    background-position: center; 
+    margin: 90px;
+    background-color: rgb(208, 208, 208);
+    border: 1px solid black;
+}
+
+.paul {
+    background-image: url(../assets/img3.png);
+    height: 200px;
+    width: 200px;
+    border-radius: 75%;
+    background-size: cover;
+    background-position: center; 
+    margin: 90px;
+    background-color: rgb(208, 208, 208);
+    border: 1px solid rgb(187, 187, 187);
+}
+
+.andrey {
+    background-image: url(../assets/img1.png);
+    height: 200px;
+    width: 200px;
+    border-radius: 75%;
+    background-size: cover;
+    background-position: center; 
+    margin: 90px;
+    background-color: rgb(208, 208, 208);
+    border: 1px solid rgb(187, 187, 187);
+}
+
+.about__us {
+    color: rgb(14, 14, 14);
+    background-color: #eeb746;
+    margin-top: 40px;
+    margin-left: 20px;
+    padding: 10px, 20px, 10px, 20px;
+    height: 50px;
+    width: 170px;
+    border-radius: 25px;
+    font-size: 30px;
+    
+}
+
+.us {
+    display: flex;
+    justify-content: center;
+    margin: 20px 20px 70px 20px;
+}
+
+
+/* ----------HIring --------- */
+.hiring {
+    padding-top: 30px;
+}
+
+.h2__text, .h1__text {
+    font-size: 2.5rem;
+    display: flex;
+    justify-content: center;
+    padding: 50px 0px 20px 0px;
+    color: #ffaa00;
+}
+
+.h1__text {
+    border-bottom: 2px solid black;
+    margin: 0 270px;
+}
+
+/* ----------pa3---------- */
+.p3__box {
+    margin: 20px 270px;
+}
+
+.title {
+    font-size: 2rem;
+    padding-right: 10px;
+}
+
+.p3__text {
+    font-size: 1.3rem;
+   
+}
